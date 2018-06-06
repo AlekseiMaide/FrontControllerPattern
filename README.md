@@ -1,2 +1,2 @@
 # Front Controller Pattern
-Simple Front-Controller pattern implementation including routing and request, response objects.
+Simple Front-Controller pattern implementation including routing(router, request, response etc.) and custom php autoloader implementation.
