@@ -1,0 +1,71 @@
+footer,
+header {
+    border: 1px solid #ddd;
+    background-color: #eee;
+    padding: 0.5em;
+    margin: auto;
+    width: 600px;
+}
+
+footer,
+header,
+.add-contact-form {
+    margin: auto;
+    width: 600px;
+}
+
+footer {
+    text-align: right;
+    font-weight: 400;
+    color: #806a6a;
+}
+
+header {
+    text-align: left;
+}
+
+table {
+    width: 100%;
+    text-align: left;
+    border-radius: 2px;
+    border: 1px solid #e2dddd
+}
+
+.contact-list-container,
+.add-contact-form {
+    width: 400px;
+    margin: auto;
+    padding: 16px 0px 16px 0px;
+}
+
+.contact-form-input {
+    width: 100%;
+    margin: 8px 0px 8px 0px;
+    padding: 4px 4px 4px 4px;
+    border-radius: 2px;
+}
+
+.main-nav-link {
+    font-size: 14px;
+    text-transform: uppercase;
+    text-decoration: none;
+    font-weight: 600;
+    color: #806a6a;
+    cursor: pointer;
+}
+
+.contact-form-submit {
+    padding: 10px;
+    font-weight: 600;
+    border-radius: 8px;
+    color: #ffffff;
+    background: #3daf21;
+    border-color: green;
+}
+
+.error-message {
+    font-size: 36px;
+    text-align: center;
+    color: #ff4c4c;
+    text-decoration: underline;
+}
